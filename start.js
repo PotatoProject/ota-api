@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 require('dotenv').config();
 require('./models/Device');
 const app = require('./app');
