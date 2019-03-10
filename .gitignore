@@ -64,3 +64,6 @@ typings/
 
 # IntelliJ .idea workspace files
 .idea/
+
+# Users
+users.htpasswd
